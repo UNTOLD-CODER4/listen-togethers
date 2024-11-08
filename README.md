@@ -62,6 +62,8 @@ That's it! You should now be able to access the app at http://localhost:3000.
 Also You can visit Supabase Dashboard at http://localhost:54323/
 
 ## 🙇 Author
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/UNTOLD-CODER4/listen-togethers&utm_source=github&utm_medium=matter-design-theme-repo&utm_campaign=template-team)
+
 
 - [Aryan](https://www.linkedin.com/in/aryan-mehrabi/)
 
