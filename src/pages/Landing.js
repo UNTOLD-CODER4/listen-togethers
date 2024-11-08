@@ -48,7 +48,7 @@ const Landing = () => {
       <footer className="absolute w-full bottom-0 left-0 flex justify-center">
         <a
           target="_blank"
-          href="https://github.com/aryan-mehrabi/listen-together"
+          href="https://github.com/MOON-CODES/listen-together"
           rel="noreferrer"
           className="text-xl mx-4 my-4 p-1"
         >
@@ -56,13 +56,13 @@ const Landing = () => {
         </a>
         <a
           target="_blank"
-          href="https://www.linkedin.com/in/aryan-mehrabi/"
+          href="https://www.linkedin.com/in/untold-coder/"
           rel="noreferrer"
           className="text-xl mx-4 my-4 p-1"
         >
           <i className="fa-brands fa-linkedin"></i>
         </a>
-        <a href="mailto:aryan.me77@yahoo.com" className="text-xl mx-4 my-4 p-1">
+        <a href="mailto:musicbot4998@yahoo.com" className="text-xl mx-4 my-4 p-1">
           <i className="fa-solid fa-envelope"></i>
         </a>
       </footer>
